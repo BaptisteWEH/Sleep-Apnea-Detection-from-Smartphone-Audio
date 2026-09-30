@@ -4,7 +4,7 @@ Can a smartphone on the nightstand detect sleep apnea? Published models report 8
 
 **Key finding:** the pre-trained audio representations identify *which patient* is speaking with **97.4% accuracy** (chance = 2%). The model learns the person before it learns the pathology.
 
-[Full report (PDF, in French)](rapport_apnee_sommeil.pdf) · [Kaggle notebook](LIEN_KAGGLE)
+[Full report (PDF, in French)](rapport_apnee_sommeil_1.pdf) · [Kaggle notebook](LIEN_KAGGLE)
 
 ---
 
